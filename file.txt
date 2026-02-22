@@ -1,2 +1,2 @@
 First line
-Second line (hahaha conflict)
+Second line
